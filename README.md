@@ -1,2 +1,2 @@
-# cardassibot
-Code for a Discord Bot.
+# Cardassibot
+This bot is for a discord bot.
